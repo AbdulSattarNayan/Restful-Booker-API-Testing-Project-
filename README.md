@@ -45,8 +45,8 @@ The test suite ensures correctness of API behavior by validating **status codes*
 
 ## 📸 Test Report Screenshots
 
-![Dashboard](assets/report-dashboard.png)
-![Failures](assets/failed-tests.png)
+![Dashboard](assets/dashboard.png)
+![Failures](assets/failures.png)
 ![Requests](assets/requests.png)
 
 ---
